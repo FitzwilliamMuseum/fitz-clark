@@ -18,15 +18,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Site title"
-email: "crsid@cam.ac.uk"
+title: "John Willis Clark and The Care of Books"
+email: "dejp3@cam.ac.uk"
 description: >- # this means to ignore newlines until "baseurl:"
-  "Website description"
-baseurl: "/reponame" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+  "The photographs of medieval English and continental libraries,
+  recently discovered among the Fitzwilliam Museum’s collections, were purchased,
+  commissioned or taken by John Willis Clark for the illustrations in his 1901
+  publication, The Care of Books. "
+baseurl: "/clark" # the subpath of your site, e.g. /blog
+url: "https://clark.fitzmuseum.cam.ac.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FitzMuseum_UK
 github_username:  fitzwilliammuseum
-background: ""
+background: "/images/libraries/JWC01.jpeg"
 main_url: 'https://fitzmuseum.cam.ac.uk'
 google_analytics: 'G-2R0YLY9DRS'
 # Build settings
@@ -43,20 +46,9 @@ plugins:
   - jekyll-mentions
 
 collections:
-   exhibition:
+   libraries:
       output: true
-   about:
-      output: true
-   resources:
-      output: true
-   team:
-      output: true
-   blog:
-      output: true
-feed:
-  collections:
-    - blog
-
+      permalink: /libraries/:path/
 timezone: Europe/London
 permalink: pretty
 encoding: "utf-8"
