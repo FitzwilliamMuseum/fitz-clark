@@ -1,7 +1,7 @@
 ---
 title: Wheel-Desk
-file: /images/libraries/JWC05.jpeg
-thumbnail: /images/thumbnails/JWC05.jpeg
+file: /images/libraries/JWC15.jpeg
+thumbnail: /images/thumbnails/JWC15.jpeg
 order: 8
 layout: default
 ---
