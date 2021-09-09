@@ -1,5 +1,6 @@
 ---
 file: /images/libraries/JWC04.jpeg
+thumbnail: /images/thumbnails/JWC04.jpeg
 order: 18
 title: Queen's College, Oxford
 layout: default

@@ -1,7 +1,8 @@
 ---
 file: /images/libraries/JWC14.jpeg
+thumbnail: /images/thumbnails/JWC14.jpeg
 order: 15
 title: Merton College, Oxford  
 layout: default
 ---
-Merton College, Oxford. July, 1879 
+Merton College, Oxford. July, 1879

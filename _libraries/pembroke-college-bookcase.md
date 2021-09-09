@@ -1,5 +1,6 @@
 ---
 file: /images/libraries/JWC09.jpeg
+thumbnail: /images/thumbnails/JWC09.jpeg
 order: 22
 title: Bookcase in old library
 layout: default

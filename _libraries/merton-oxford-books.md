@@ -1,5 +1,6 @@
 ---
 file: /images/libraries/JWC25.jpeg
+thumbnail: /images/thumbnails/JWC25.jpeg
 order: 16
 title: Merton College, Oxford  
 layout: default

@@ -1,5 +1,6 @@
 ---
 file: /images/libraries/JWC13.jpeg
+thumbnail: /images/thumbnails/JWC13.jpeg
 order: 19
 title: Peterhouse College
 layout: default

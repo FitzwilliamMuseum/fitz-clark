@@ -1,5 +1,6 @@
 ---
 file: /images/libraries/JWC12.jpeg
+thumbnail: /images/thumbnails/JWC12.jpeg
 order: 23
 title: Trinity College Library
 layout: default

@@ -1,5 +1,6 @@
 ---
 file: /images/libraries/JWC01.jpeg
+thumbnail: /images/thumbnails/JWC01.jpeg
 order: 11
 title: The Grammar School
 layout: default
