@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   recently discovered among the Fitzwilliam Museum’s collections, were purchased,
   commissioned or taken by John Willis Clark for the illustrations in his 1901
   publication, The Care of Books. "
-baseurl: "/clark" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://clark.fitzmuseum.cam.ac.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FitzMuseum_UK
 github_username:  fitzwilliammuseum
