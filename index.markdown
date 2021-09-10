@@ -9,6 +9,6 @@ The captions are transcribed from the notes penned by J. W. Clark on the mounts 
 
 John Willis Clark (1833-1910) was born into an academic Cambridge household, and made the University his career: Fellow of Trinity College, Superintendent of the Museum of Zoology, Registrary of the University. His activities combined his grasp of detail and his enjoyment of ritual and spectacle, particularly in his support of the Cambridge Amateur Dramatic Club. He completed the four-volume Architectural History of the University and Colleges of Cambridge (with Robert Willis, 1886) and his personal collection of books about Cambridge was bequeathed to the University Library. In many ways one of the modernisers of Cambridge University, his appreciation of the past informed his work.
 
-We celebrate the centenary of The Care of Books and the life of its remarkable polymath author through a conference at Trinity College, Cambridge (30 November – 1 December 2001; for information, please contact Susie.West@uea.ac.uk ) and through this selection of the recently discovered photographs.
+We celebrated the centenary of The Care of Books and the life of its remarkable polymath author through a conference at Trinity College, Cambridge (30 November – 1 December 2001) and through this selection of the recently discovered photographs.
 
-**Website originally created by Stella Herzig for The Fitzwilliam Museum, June 2001**
+**Website originally created by Stella Herzig for The Fitzwilliam Museum, June 2001, conference with Susie West UEA**
