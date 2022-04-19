@@ -1,4 +1,6 @@
-# John Willis Clark and The Care of Books
+
+[![DOI](https://zenodo.org/badge/402529164.svg)](https://zenodo.org/badge/latestdoi/402529164)
+
 
 The photographs of medieval English and continental libraries, recently discovered among the Fitzwilliam Museum’s collections, were purchased, commissioned or taken by John Willis Clark for the illustrations in his 1901 publication, The Care of Books. ‘The subject was entirely new’, wrote Clark in the preface to his published lectures on European library buildings and their fittings. The Care of Books researched what we may now describe as the material culture of libraries, tracing the earliest rooms for housing collections of texts in Assyria, Greece, and Rome, and focusing on the medieval inheritance of Europe. The ‘care’ of books embraced their preservation by regulation as well as by physical ordering, and Clark’s methods of study drew on archival, architectural and archaeological sources. In many ways, this breadth of scope reflects his extraordinary range of interests. The photographs capture something of Clark’s contemporary eye for telling detail.
 
